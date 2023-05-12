@@ -6,4 +6,7 @@ console.log (5 + 10 / 5)
 console.log (15 / 5)
 console.log (5 + 2 * 10)
 console.log (10 / 10)
+console.log (10 % 2)
+console.log (11 % 2)
+
 console.log (typeof 10)

@@ -6,5 +6,5 @@ let nome = prompt ("Qual o seu nome");
 
 console.log (`Seu nome é ${nome}`);
 
-console.log (`Seu nome é ${nome} e tenho ${idade} anos!`);
+console.log (`Meu nome é ${nome} e tenho ${idade} anos!`);
 

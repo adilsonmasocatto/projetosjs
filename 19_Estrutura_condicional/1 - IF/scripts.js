@@ -17,7 +17,7 @@ if (nome == "Adilson" && idade >= 10){
 }
 
 let passaporte = true;
-if (nome == "Adi" || passaporte == true){
+if (nome == "Adi" || passaporte == false){
     console.log("Liberado!")
 }
 

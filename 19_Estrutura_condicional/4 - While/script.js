@@ -22,3 +22,12 @@ while( z <= 15) {
     console.log ("O Z é " + z);
     z = z +1;
 }
+
+let a = 50;
+
+while ( a <= 90) {
+    console.log (a);
+    a = a + 40;
+}
+
+

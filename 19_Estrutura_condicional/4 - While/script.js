@@ -30,4 +30,9 @@ while ( a <= 90) {
     a = a + 40;
 }
 
+let b = 10
 
+while ( b <= 50 ) {
+    console.log (b);
+    b += 10;
+}
